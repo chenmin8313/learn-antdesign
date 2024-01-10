@@ -4,4 +4,6 @@ module.exports = {
     page: true,
     REACT_APP_ENV: true,
   },
+  'import/prefer-default-export': 0,
 };
+
